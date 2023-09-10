@@ -49,6 +49,10 @@ h3 {
     grid-area: nav;
 }
 
+.navbar a{
+    color: black;
+}
+
 .logo{
     grid-area: logo;
     font-weight: 900;
@@ -193,6 +197,10 @@ span {
     height: 100%;
     border-radius: 20px;
     box-shadow: 1px 30px 35px #0266774d;
+}
+
+#form-desk, #calculator-desk, #etch-a-sketch-desk, #rock-paper-sicssors:hover{
+    box-shadow: 1px 30px 35px #001c214d ;
 }
 
 
